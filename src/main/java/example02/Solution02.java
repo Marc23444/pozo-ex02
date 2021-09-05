@@ -3,8 +3,12 @@
  *  Copyright 2021 Marcelino Pozo-Joseph
  */
 /*
-    PSEUDOCODE GOES HERE
-    Basically write out step by step what ur codes doing.
+    PSEUDOCODE
+    -Create a way for the user to input a string (Use a scanner) and a way to store the number of chars
+    -Prompt the user for an input string
+    -Take in the users input, using that input calculate the number of characters within it
+        -Use .length()
+    -Print the string and how many characters it has
  */
 
 package example02;
